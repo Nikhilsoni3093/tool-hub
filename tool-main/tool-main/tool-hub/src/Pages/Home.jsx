@@ -73,7 +73,7 @@ export default function Home() {
           role: "ui/ux and Frontend Developer",
           github: "https://github.com/Nikhilsoni3093",
           linkedin: "https://www.linkedin.com/in/nikhil-soni-ba4679294/",
-          avatar: "https://avatars.githubusercontent.com/u/2?v=4",
+          avatar: "./niki.jpeg",
         },
         // {
         //   name: "Sandhya Rathor",
