@@ -16,7 +16,7 @@ export default function Header() {
             About Developer
           </a>
           <a
-            href="https://github.com/iamvis"
+            href="https://github.com/Nikhilsoni3093"
             target="_blank"
             rel="noopener noreferrer"
             className="text-gray-700 hover:text-blue-600 transition font-medium"
